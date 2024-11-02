@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    background-color: #f1d2d2;
+
+}
+.con{
+    background-image: url('2.jpg');
+    color:#ddd
+}
+.tan{
+    background-image: url('3.jpg');
+    
+
+}
+.news{
+    background-image: url('4.jpg');
+    
+
+}
+.read{
+    background-image: url('5.jpg');
+    
+
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+    color:rgb(1, 14, 25)
+    
+}
+.containe {
+    text-align: center;
+    margin-top: 250px;
+    color:rgb(1, 14, 25)
+    
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+.chatbot-button {
+    position: absolute;
+    top: 10px;
+    right : 10px;
+}
+
+.main-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#newsList {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: 20px;
+}
+
+#newsOutput {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: 20px;
+}
+#sin
+{
+    color:#ddd
+}
+#das
+{
+    color:#ddd
+}
+#ne
+{
+    color:#ddd
+}
+#re
+{
+    color:#ddd
+}
